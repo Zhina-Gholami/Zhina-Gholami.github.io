@@ -1,7 +1,7 @@
 public class Main {
   public static void main(String[] args) {
     System.out.println("Hello People. ihde isfhs msdfdjkw skjdhiuwhd salamxscd lijiijlf sjflsdfj slfjijls csljfdowejffsd sljfj sjfl si ljwpfdkapsdkpo  opoewjflds  pofspodjfdospow powoepolsklfdfp pppwioiur ijfdkjlsfk jfsiljflsdijfowo ojwojfjw oflwfjosj fjowjfls jlsfjidjfls fslifjiew fo oewiwjp joisoijfsdljjfilwfjsljfiejslkdj ljsflkdjfk j");
-System.out.println("How are you?");
+
 System.out.println("Are you ok?");
 System.out.print("I said one more time. ");
 System.out.println("for oldtime's sake.");
